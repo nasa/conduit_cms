@@ -1,10 +1,9 @@
 # conduit_cms
 
 Source code will be checked in soon...
+If you would like to contribute, please fork this repository and issue a pull request. 
 
 # README
-
-Detailed design documentation is available on the wiki at https://wiki.earthdata.nasa.gov/display/EDDEV/Conduit.
 
 Database seeds for development are in db/seeds/development.rb.  Test pages for the following rake tasks(db:reset, edtopnav:ingest) 
 will create pages in "TEST" project.
